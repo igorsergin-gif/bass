@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    {
+      "title": "Проверка",
+      "products": [
+        {
+          "title": "Мультикомплекс",
+          "shortDescription": "тест",
+          "fullDescription": "1",
+          "usage": "2",
+          "cases": "3",
+          "slug": "http://147.45.230.149"
+        }
+      ]
+    }
+  ]
+}
